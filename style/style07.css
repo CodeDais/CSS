@@ -1,0 +1,28 @@
+/* .c2 {
+  height: 400px;
+  width: 500px; */
+/* background-image: linear-gradient(
+      45deg,
+      rgba(127, 218, 23, 0.2),
+      rgba(185, 9, 132, 0.3)
+    ), */
+/* url("/images/1.jpg"); */
+/* background-size: cover; */
+/* } */
+
+.c3 {
+  height: 650px;
+  width: 1100px;
+  background-image: url("/images/ball.jpg");
+  /* background-repeat: no-repeat; */
+  /* background-repeat: space; */
+  /* background-repeat: round; */
+  /* background-repeat: repeat-x; */
+  /* background-repeat: repeat-y; */
+}
+
+/* round round ---> round
+  space space ---> space 
+  repeat no-repeat--->repaet x 
+  no-repeat repeart-x--->repaet x  */
+/* repeat repeat --->repeat  */

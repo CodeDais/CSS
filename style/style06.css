@@ -1,0 +1,19 @@
+p {
+  background-color: red;
+}
+
+div p {
+  background-color: aqua !important;
+}
+
+div > p {
+  background-color: chocolate;
+}
+
+.c1 {
+  background-color: blueviolet;
+}
+
+#id1 {
+  background-color: coral;
+}

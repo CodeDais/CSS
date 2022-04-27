@@ -1,0 +1,31 @@
+div {
+  height: 100px;
+  width: 200px;
+  margin: auto;
+  text-align: center;
+  /* background-color: red; */
+  /* background-color: rgb(255, 255, 0); */
+  /* background-color: rgb(255, 255, 255); */
+  /* background-color: rgb(255, 0, 255); */
+  /* background-color: rgb(255, 0, 0); */
+  /* background-color: rgb(100, 0, 0); */
+  /* background-color: rgb(230, 120, 155); */
+
+  /* rgba  */
+  /* background-color: rgba(255, 0, 0, 0.5); */
+
+  /* hex */
+  /* background-color: #ff0000; */
+  /* background-color: #ffff00; */
+  /* background-color: #ffffaa; */
+
+  /* hsl */
+  /* background-color: hsl(0, 80%, 90%); */
+  /* background-color: hsl(120, 95%, 60%); */
+  /* background-color: hsl(75, 80%, 90%); */
+
+  /* hsla */
+  /* background-color: hsla(0, 90%, 10%, 0.4); */
+
+  /* color: #995916; */
+}

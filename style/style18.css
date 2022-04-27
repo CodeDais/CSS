@@ -1,0 +1,21 @@
+/* h1 {
+  background-color: coral;
+  display: inline;
+} */
+
+/* span {
+  display: block;
+  background-color: red;
+} */
+
+div {
+  background-color: rgb(97, 83, 78);
+  border: 1px solid black;
+  padding: 10px;
+  color: rgb(194, 42, 42);
+  margin: 5px;
+  height: 150px;
+  width: 25%;
+  text-align: center;
+  display: inline-block;
+}

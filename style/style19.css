@@ -1,0 +1,9 @@
+body {
+  /* background: url("/images/5.jpg"), red; */
+
+  /* background: url("/images/5.jpg"), linear-gradient(45deg, red, blue); */
+
+  background: url("/images/5.jpg"), url("/images/2.jpg");
+  background-size: cover;
+  background-blend-mode: multiply;
+}

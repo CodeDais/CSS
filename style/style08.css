@@ -1,0 +1,16 @@
+.c1 {
+  height: 400px;
+  width: 600px;
+  background-color: teal;
+  font-size: 25px;
+  color: coral;
+  padding: 30px;
+  border: 20px dotted yellowgreen;
+  background-image: url("/images/ball.jpg");
+  /* background-size: cover; */
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* background-origin: content-box; */
+  /* background-origin: padding-box;*/
+  background-origin: border-box;
+}

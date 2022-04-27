@@ -1,0 +1,15 @@
+.c1 {
+  height: 400px;
+  width: 600px;
+  background-color: teal;
+  font-size: 25px;
+  color: coral;
+  padding: 30px;
+  border: 20px dotted yellowgreen;
+  background-color: blueviolet;
+  background-size: contain;
+  background-repeat: no-repeat;
+  /* background-clip: border-box; */
+  /* background-clip: padding-box; */
+  background-clip: content-box;
+}

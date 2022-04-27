@@ -1,0 +1,63 @@
+/* id selector  */
+/* p {
+    color: red;
+  }
+   */
+
+/* id selecetor  */
+/* #id1 {
+  color: red;
+} */
+
+/* class selector  */
+
+/* .c1 {
+  color: red;
+} */
+
+/* attribute selector  */
+
+/* input {
+  border: 5px solid red;
+} */
+
+/* input[type="text"] {
+  border: 5px solid green;
+} */
+
+/* 
+grouping selector */
+
+/* .c1 {
+  background-color: red;
+} */
+
+/* div,
+p {
+  background-color: red;
+} */
+
+/* universal selector */
+
+/* p,
+div,
+body,
+html {
+  border: 3px solid green;
+} */
+
+/* * {
+  border: 3px solid rgb(47, 75, 199);
+} */
+
+/* body {
+  border: 3px solid rgb(47, 75, 199);
+} */
+
+/* body {
+  color: red;
+} */
+
+/* * {
+  color: red;
+} */

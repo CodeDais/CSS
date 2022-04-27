@@ -1,0 +1,42 @@
+.box {
+  height: 400px;
+  width: 600px;
+  background-color: cornsilk;
+  margin: 30px;
+  /* position: relative; */
+}
+
+.box div {
+  display: inline-block;
+}
+#div1 {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border-radius: 50%;
+  /* position: static;
+top:100px;
+left:200px; */
+}
+#div2 {
+  height: 100px;
+  width: 100px;
+  background-color: greenyellow;
+  border-radius: 50%;
+  /* position: relative;
+    left: 20px;
+    top: 100px; */
+}
+#div3 {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  border-radius: 50%;
+  position: absolute;
+  top: 10px;
+}
+#div4 {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(44, 197, 218);
+}

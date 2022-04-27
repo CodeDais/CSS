@@ -1,0 +1,34 @@
+.div1 {
+  background-color: rgb(155, 72, 233);
+  height: 25px;
+  width: 100px;
+  color: white;
+  text-align: center;
+  position: fixed;
+  right: 10px;
+  bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  background-image: linear-gradient(90deg, rgb(22, 147, 219), rgb(32, 32, 97));
+  text-align: center;
+  border-radius: 5px;
+  position: sticky;
+  top: 0px;
+}
+
+li {
+  padding: 10px;
+  display: inline-block;
+}
+
+li:hover {
+  background-color: coral;
+  border-radius: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}

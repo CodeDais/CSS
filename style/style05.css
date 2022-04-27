@@ -1,0 +1,22 @@
+/* desendent selector */
+/* .c1 p {
+  background-color: coral;
+} */
+
+/* child selector  */
+
+/* div > p {
+  background-color: cornflowerblue;
+} */
+
+/* general sibiling selector  */
+
+/* p ~ h2 {
+  background-color: chartreuse;
+} */
+
+/*adjencent sibling selector*/
+
+/* p + h1 {
+  background-color: crimson;
+} */
